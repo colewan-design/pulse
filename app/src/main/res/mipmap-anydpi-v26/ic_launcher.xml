@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<adaptive-icon xmlns:android="http://schemas.android.com/apk/res/android">
+    <background android:drawable="@drawable/ic_launcher_background" />
+    <foreground android:drawable="@mipmap/ic_launcher_foreground" />
+    <!--
+        Themed icon for Android 13+. The system tints this silhouette to match the user's
+        wallpaper palette, so it carries alpha only — any colour here would be discarded.
+        Ignored on older releases, which fall back to the foreground above.
+    -->
+    <monochrome android:drawable="@mipmap/ic_launcher_monochrome" />
+</adaptive-icon>

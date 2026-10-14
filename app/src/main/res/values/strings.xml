@@ -1,0 +1,8 @@
+<resources>
+    <!--
+      Was "Pulse Offline". The app is local-first but no longer offline-only —
+      it carries INTERNET and a YouTube Music search tab — so the old label
+      promised something the build stopped doing.
+    -->
+    <string name="app_name">Pulse</string>
+</resources>
